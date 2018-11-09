@@ -1,1 +1,2 @@
 Repositori garcia_gerard
+Afegeixo línia desde el repositorio local
